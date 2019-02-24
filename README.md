@@ -1,2 +1,2 @@
-# go-json-map
-A Go map[string]interface{} with Postgres-friendly Scan and Value methods attached.
+# pqjson
+A couple handy Go types for working with JSON data and Postgres.
